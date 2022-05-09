@@ -14,4 +14,4 @@ The projects you will find here include:
 
 6. Analyzing the Pay/Wage Gap
 
-To learn more about a project, and to explore my project work, please click on the corresponding folder for each project topic/title listed above.
+To learn more about a project, and to explore my project work, please click on the corresponding folder for each project topic/title listed above. Thank you for stopping by!
