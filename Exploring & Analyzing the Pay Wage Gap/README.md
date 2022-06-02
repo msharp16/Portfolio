@@ -20,6 +20,7 @@ The areas I will be exploring relative to this topic are encompassed within my r
 Via EDA, descriptive statistics, and linear and multivariate regression, the above will be addressed.
 
 References:
+
 Daugherty, G. (2022, March 14). Gender and income inequality. Investopedia. 
 https://www.investopedia.com/history-gender-wage-gap-america-5074898
 
