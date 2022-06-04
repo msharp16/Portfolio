@@ -11,6 +11,6 @@ The projects you will find here include:
 7. Increasing Attendance for the MLB Dodgers
 8. Movie Recommender Systems
 9. National Parks Overview Analysis and Visualizations
-10. Open Powerlifting: Analyzing Powerlifting
+10. Open Powerlifting: Analyzing Powerlifting Data with EDA
 
 To learn more about a project, and to explore my project work, please click on the corresponding folder for each project topic/title listed above. Thank you for stopping by!
