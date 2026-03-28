@@ -1,5 +1,9 @@
 # Portfolio
-Welcome! This is my official Data Science Projects Portfolio. Here you will find a conglomeration of DS projects that I have worked on and poured my heart &amp; soul into. Enjoy!
+Welcome! 
+
+This is my official Data Science Projects Portfolio. Here you will find a conglomeration of DS projects that I have worked on and poured my heart &amp; soul into. Enjoy!
+
+"This profile serves as an archive of my academic and foundational research projects (2017–2022). My recent work (2022–Present) has been focused on proprietary enterprise data infrastructure, governance, and ML modeling within private organizations."
 
 The projects you will find here include:
 1. ADHD Outcomes: Assessing Demographics and Comorbidity with Tourette Syndrome
