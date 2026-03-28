@@ -3,7 +3,7 @@ Welcome!
 
 This is my official Data Science Projects Portfolio. Here you will find a conglomeration of DS projects that I have worked on and poured my heart &amp; soul into. Enjoy!
 
-"This profile serves as an archive of my academic and foundational research projects (2017–2022). My recent work (2022–Present) has been focused on proprietary enterprise data infrastructure, governance, and ML modeling within private organizations."
+_This profile serves as an archive of my academic and foundational research projects (2020–2022). My recent work (2022–Present) has been focused on proprietary enterprise data infrastructure, governance, and ML modeling within private organizations. Since finishing my Master’s, my technical output has been entirely dedicated to solving high-stakes challenges within my organizations. I’ve shifted from 'learning the tools' via personal projects to 'deploying the tools' at scale in enterprise environments where the code is proprietary._
 
 The projects you will find here include:
 1. ADHD Outcomes: Assessing Demographics and Comorbidity with Tourette Syndrome
